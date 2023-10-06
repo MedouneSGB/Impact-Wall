@@ -6,12 +6,18 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+<!-- Add Bootstrap CSS and JavaScript -->
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </head>
 <body>
     <header class="header-area overlay">
         <nav class="navbar navbar-expand-md navbar-dark">
             <div class="container">
-                <a href="#" class="navbar-brand">Impace Wall</a>
+                <a href="#" class="navbar-brand">Impact Wall</a>
                 
                 <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#main-nav">
                     <span class="menu-icon-bar"></span>
@@ -23,6 +29,7 @@
                     <ul class="navbar-nav ml-auto">
                         <li><a href="#" class="nav-item nav-link active">Home</a></li>
                         <li><a href="#" class="nav-item nav-link">About Us</a></li>
+                        <li><a href="https://github.com/MedouneSGB/Impact-Wall" class="nav-item nav-link">Contribute</a></li>
                     </ul>
                 </div>
             </div>
@@ -30,13 +37,13 @@
         
         <div class="banner">
             <div class="container">
-                <h1>Welcome to <span class="navbar-brand" style="color: #D2B863;">Impact-Wall</span></h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec elit ex. Etiam elementum lectus et tempor molestie.</p>
-                <div class="p-4 bg-light rounded rounded-pill shadow-sm mb-4">
+                <h1>Welcome to <span class="navbar-brand" style="color: #D2B863; font-size: 4.3rem;">Impact-Wall</span></h1>
+                <p>A wall highlighting people and organizations that have a good impact</p>
+                <div class="p-4 bg-light rounded rounded-pill shadow-sm mb-4" style="margin-bottom: -4.5rem !important;">
                     <div class="input-group">
                       <input type="search" placeholder="What're you searching for?" aria-describedby="button-addon1" class="form-control border-0 bg-light">
                       <div class="input-group-append">
-                        <button id="button-addon1" type="submit" class="btn btn-link text-primary"><i class="fa fa-search"></i></button>
+                        <button id="button-addon1" type="submit" class="btn btn-link text-primary"><i class="fa fa-search fa-2x" style="color: #86763e;"></i></button>
                       </div>
                     </div>
                 </div>
@@ -48,37 +55,33 @@
 
     <div style="background-color: #D2B863;">
     <div class="container p-5">
-          <h1 class="m-5" style="text-align: center; font-weight: bold; font-size: 40px;">Our <span style="color: #1B0508;">Participants</span></h1>
+          <h1 class="m-5" style="text-align: center; font-weight: bold; font-size: 40px;">One World, <span style="color: #ffffff;">Many Heroes</span></h1>
           <hr>
           <div class="row mt-5">
             <div class="col-md-3 col-sm-6 item">
                 <div class="card item-card card-block">
-                <img src="https://static.pexels.com/photos/7096/people-woman-coffee-meeting.jpg" alt="Photo of sunset">
-                    <h5 class="item-card-title mt-3 mb-3 p-2">Sierra Web Development • Owner</h5>
-                    <p class="card-text p-2">This is a company that builds websites, web apps and e-commerce solutions.</p> 
-            </div>
+                    <img src="heroes/Marietou.jpeg" alt="">
+                    <h5 class="card-title p-2  mt-3 mb-3">Marietou Diedhiou</h5>
                 </div>
-                <div class="col-md-3 col-sm-6 item">
+            </div>  
+            <div class="col-md-3 col-sm-6 item">
                 <div class="card item-card card-block">
-                <img src="https://static.pexels.com/photos/7357/startup-photos.jpg" alt="Photo of sunset">
-                    <h5 class="card-title p-2  mt-3 mb-3">ProVyuh</h5>
-                    <p class="card-text p-2">This is a company that builds websites, web .</p> 
-            </div>
+                    <img src="heroes/abdourami.jpg" alt="">
+                    <h5 class="item-card-title mt-3 mb-3 p-2">Abdou Touré</h5>
                 </div>
-                <div class="col-md-3 col-sm-6 item">
-                <div class="card item-card card-block">
-                <img src="https://static.pexels.com/photos/262550/pexels-photo-262550.jpeg" alt="Photo of sunset">
-                    <h5 class="card-title  p-2 mt-3 mb-3">ProVyuh</h5>
-                    <p class="card-text p-2">This is a company that builds websites, web apps and e-commerce solutions.</p> 
             </div>
+            <div class="col-md-3 col-sm-6 item">
+                <div class="card item-card card-block">
+                    <img src="heroes/dofbi.jpg" alt="">
+                    <h5 class="card-title p-2  mt-3 mb-3">Mamadou Diagne</h5>
                 </div>
-                <div class="col-md-3 col-sm-6 item">
-                <div class="card item-card card-block">
-                <img src="https://static.pexels.com/photos/7357/startup-photos.jpg" alt="Photo of sunset">
-                    <h5 class="card-title p-2  mt-3 mb-3">ProVyuh</h5>
-                    <p class="card-text p-2">This is a company that builds websites.</p> 
             </div>
-            </div>    
+            <div class="col-md-3 col-sm-6 item">
+                <div class="card item-card card-block">
+                    <img src="heroes/Daooda.jpg" alt="">
+                    <h5 class="card-title  p-2 mt-3 mb-3">Daouda Ba</h5>
+                </div>
+            </div>  
           </div>
           
         </div>
@@ -93,30 +96,25 @@
                 <div class="row">
                     <div class="col-lg-6 offset-lg-3">
                         <div class="contact-content text-center">
-                            <a href="#" class="navbar-brand" style="font-size: 40px;">Impace Wall</a>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum </p>
+                            <a href="#" class="navbar-brand" style="font-size: 40px;">Impact Wall</a>
+                            <p>A wall highlighting people and organizations that have a good impact</p>
                             <div class="hr"></div>
-                            <h6>1120 Lorem ipsum dolor sit amet, KC 179050, Chandigarh.</h6>
-                            <h6>+01 2345 6789 12<span>|</span>+01 2345 6789 12</h6>
                             <div class="contact-social">
                                 <ul>
-                                    <li><a class="hover-target" href=""><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a class="hover-target" href=""><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li><a class="hover-target" href=""><i class="fab fa-github"></i></a></li>
-                                    <li><a class="hover-target" href=""><i class="fab fa-behance"></i></a></li>
-                                    <li><a class="hover-target" href=""><i class="fab fa-pinterest-p"></i></a></li>
+                                    <li><a class="" href="https://github.com/MedouneSGB/Impact-Wall"><i class="fab fa-github fa-10x"></i></a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+            <footer>
+                <p>Copyright &copy; 2023 <a href="#" class="navbar-brand" style="font-size: 2rem;">Impact Wall</a><a href="#" class="navbar-brand" style="font-size: 2rem; color: #D2B863; ">Hacktoberfest23</a></p>
+            </footer>
+    
         </section>
         <!-- =============== 1.9 Contact Area End ====================-->
         <!-- =============== 1.9 Footer Area Start ====================-->
-        <footer>
-            <p>Copyright &copy; 2019 <a href="#" class="navbar-brand"">Impace Wall</a> All Rights Reserved.</p>
-        </footer>
 
 
 
