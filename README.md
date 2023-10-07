@@ -3,16 +3,6 @@
 # Impact-Wall
 A wall highlighting people and organizations that have a good impact
 
-# Demo - Website Images
-![image](https://github.com/MedouneSGB/Impact-Wall/assets/40875400/a111d995-1dae-45b4-ad99-e4620e880a1c)
-
-![image](https://github.com/MedouneSGB/Impact-Wall/assets/40875400/bddfac06-af12-4435-b211-7e3c90a5db76)
-
-![image](https://github.com/MedouneSGB/Impact-Wall/assets/40875400/49ed5340-6bbb-47ce-9d04-51f3918b6e05)
-
-
-STAR [THIS Repository](https://github.com/SanghiNinja/Mini-Projects) if you find it interesting. 
-FORK [THIS Repostiory](https://github.com/SanghiNinja/Mini-Projects) and start working.
 
 <h1 align="center"> Hacktoberfest 2023 </h1>
 
@@ -64,6 +54,14 @@ Submit PRs: Try and submit at least **_4 PRs_** and wait for it to be merged and
 ---
 
 **Whether it’s your first or fiftieth pull request, there’s always more to learn! So, keep up the hard work and grab this opportunity to participate in Hacktoberfest2023 and enter the world of Open Source and learn new things.**
+
+
+# Demo - Website Images
+![image](https://github.com/MedouneSGB/Impact-Wall/assets/40875400/a111d995-1dae-45b4-ad99-e4620e880a1c)
+
+![image](https://github.com/MedouneSGB/Impact-Wall/assets/40875400/bddfac06-af12-4435-b211-7e3c90a5db76)
+
+![image](https://github.com/MedouneSGB/Impact-Wall/assets/40875400/49ed5340-6bbb-47ce-9d04-51f3918b6e05)
 
 ---
 
