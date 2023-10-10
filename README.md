@@ -59,7 +59,6 @@ Submit PRs: Try and submit at least **_4 PRs_** and wait for it to be merged and
 # Demo - Website Images
 ![image](https://github.com/MedouneSGB/Impact-Wall/assets/40875400/a111d995-1dae-45b4-ad99-e4620e880a1c)
 
-
 ---
 
 ```javascript
