@@ -1,0 +1,25 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "contibutors": "Contibuteurs",
+    "contribute": "Contribuer",
+    "selectLang": {
+      "placeholder": "Choisir une langue",
+      "en": "Anglais",
+      "fr": "Français"
+    }
+  },
+  "content": {
+    "header": {
+      "title": "Bienvenue à",
+      "tagline": "Un endroit qui met en valeur les personnes et organisations ayant un impact positif."
+    },
+    "heroes": {
+      "title_first": "Une planète",
+      "title_second": "Plusieurs héros"
+    }
+  },
+  "footer": {
+    "tagline": "Un endroit qui met en valeur les personnes et organisations ayant un impact positif."
+  }
+}
