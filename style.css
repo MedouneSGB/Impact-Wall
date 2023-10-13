@@ -332,7 +332,7 @@ p {
   .navbar-dark .navbar-nav .nav-link {
     padding: 23px 15px;
   }
-  .navbar-dark .navbar-nav .nav-link::after {
+  .navbar-dark .navbar-nav .nav-link:not(.i18n)::after {
     content: '';
     position: absolute;
     bottom: 15px;

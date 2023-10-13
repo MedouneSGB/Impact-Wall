@@ -1,0 +1,25 @@
+{
+  "navigation": {
+    "home": "Home",
+    "contibutors": "Contibutors",
+    "contribute": "Contribute",
+    "selectLang": {
+      "placeholder": "Choose a language",
+      "en": "English",
+      "fr": "French"
+    }
+  },
+  "content": {
+    "header": {
+      "title": "Welcome to",
+      "tagline": "A wall highlighting people and organizations that have a good impact."
+    },
+    "heroes": {
+      "title_first": "One World",
+      "title_second": "Many Heroes"
+    }
+  },
+  "footer": {
+    "tagline": "A wall highlighting people and organizations that have a good impact."
+  }
+}
