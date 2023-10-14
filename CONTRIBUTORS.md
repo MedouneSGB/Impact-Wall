@@ -2,8 +2,8 @@
 
 Thanks to the following people who have contributed to this project:
 
-- [Contributor 1](https://github.com/MedouneSGB)
-- [Contributor 2](https://github.com/Upendra2003)
-- [Contributor 3](https://github.com/NDOY3M4N)
-- [Contributor 4](https://github.com/Arcturus22)
-- [Contributor 5](https://github.com/maida12)
+- [MedouneSGB](https://github.com/MedouneSGB)
+- [Upendra2003](https://github.com/Upendra2003)
+- [NDOY3M4N](https://github.com/NDOY3M4N)
+- [Arcturus22](https://github.com/Arcturus22)
+- [Maida](https://github.com/maida12)
