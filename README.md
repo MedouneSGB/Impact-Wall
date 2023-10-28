@@ -1,8 +1,8 @@
 ![hf10_logo_wall_1920x1080](https://github.com/MedouneSGB/Impact-Wall/assets/40875400/46c28d0e-c595-437d-9bad-f70bbbc74ed9)
 
 # Impact-Wall
-A wall highlighting people and organizations that have a good impact
 
+A wall highlighting people and organizations that have a good impact
 
 <h1 align="center"> Hacktoberfest 2023 </h1>
 
@@ -55,8 +55,8 @@ Submit PRs: Try and submit at least **_4 PRs_** and wait for it to be merged and
 
 **Whether it’s your first or fiftieth pull request, there’s always more to learn! So, keep up the hard work and grab this opportunity to participate in Hacktoberfest2023 and enter the world of Open Source and learn new things.**
 
-
 # Demo - Website Images
+
 ![image](https://github.com/MedouneSGB/Impact-Wall/assets/40875400/a111d995-1dae-45b4-ad99-e4620e880a1c)
 
 ![image](https://github.com/MedouneSGB/Impact-Wall/assets/40875400/bddfac06-af12-4435-b211-7e3c90a5db76)
@@ -77,3 +77,5 @@ Submit PRs: Try and submit at least **_4 PRs_** and wait for it to be merged and
 ```
 
 ---
+
+Le repas sera bientot pret.
