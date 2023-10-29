@@ -1,0 +1,25 @@
+{
+    "navigation": {
+      "home": "yeksil",
+      "contributors": "Nioussi Djapp",
+      "contribute": "Djapp si",
+      "selectLang": {
+        "placeholder": "Kalama",
+        "en": "Anglais",
+        "fr": "Français"
+      }
+    },
+    "content": {
+      "header": {
+        "title": "Aksil ak diamme",
+        "tagline": "Bereub bouy wané diambar yii"
+      },
+      "heroes": {
+        "title_first": "Bénn Deukk",
+        "title_second": "Ayy diambar you beurri."
+      }
+    },
+    "footer": {
+      "tagline": "Bereub bouy wané diambar yii."
+    }
+  }

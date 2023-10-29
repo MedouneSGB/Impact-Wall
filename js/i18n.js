@@ -4,7 +4,7 @@ const translator = new Translator({
   detectLanguage: true,
 })
 
-translator.fetch(["fr", "en"]).then(() => {
+translator.fetch(["fr", "en", "wolof"]).then(() => {
   // Calling `translatePageTo()` without any parameters
   // will translate to the default language.
   translator.translatePageTo();
