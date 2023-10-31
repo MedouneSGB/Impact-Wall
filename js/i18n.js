@@ -4,14 +4,20 @@ const translator = new Translator({
   detectLanguage: true,
 })
 
+/* The code `translator.fetch(["fr", "en", "wolof"]).then(() => { translator.translatePageTo("fr");
+registerLanguageToggle(); });` is fetching the translations for the specified languages ("fr", "en",
+"wolof") using the `fetch` method of the `translator` object. */
 translator.fetch(["fr", "en", "wolof"]).then(() => {
-  // Calling `translatePageTo()` without any parameters
-  // will translate to the default language.
-  translator.translatePageTo();
+  translator.translatePageTo("fr");
   registerLanguageToggle();
 });
 
 
+/**
+ * The function `registerLanguageToggle` adds an event listener to a select element, and when the
+ * selected option changes, it calls a `translatePageTo` function with the selected language as an
+ * argument.
+ */
 function registerLanguageToggle() {
   const select = document.querySelector("select#lang");
 
