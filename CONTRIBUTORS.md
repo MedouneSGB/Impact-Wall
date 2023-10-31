@@ -8,4 +8,4 @@ Thanks to the following people who have contributed to this project:
 - [Arcturus22](https://github.com/Arcturus22)
 - [Maida](https://github.com/maida12)
 - [Bakarseck](https://github.com/Bakarseck)
-
+- [Mouhamed El Malick Hanne](https://github.com/mouhamedhanne)
