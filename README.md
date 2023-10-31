@@ -82,3 +82,14 @@ Submit PRs: Try and submit at least **_4 PRs_** and wait for it to be merged and
 ---
 
 Le repas sera bientot pret.
+
+# Contributors
+
+Thanks to the following people who have contributed to this project:
+
+- [MedouneSGB](https://github.com/MedouneSGB)
+- [Upendra2003](https://github.com/Upendra2003)
+- [NDOY3M4N](https://github.com/NDOY3M4N)
+- [Arcturus22](https://github.com/Arcturus22)
+- [Maida](https://github.com/maida12)
+- [Bakarseck](https://github.com/Bakarseck)
