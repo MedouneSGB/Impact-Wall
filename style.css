@@ -514,3 +514,70 @@ footer img {
 .col-sm-6 {
   padding: 15px;
 }
+
+/****** Hero Detail ****/
+.hero-detail_infos {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hero-detail_back_link {
+  color: #1B0508;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.hero-detail_back_link:hover {
+  color: #1B0508;
+  text-underline-offset: 5px;
+}
+
+.hero-detail_name {
+  font-size: 28px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.hero-detail_socials {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+.hero-detail_social_link {
+  width: 24px;
+  height: 24px;
+  border: 1px solid #1B0508;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hero-detail_social_link:hover {
+  text-decoration: none;
+}
+
+.hero-detail_social_link i {
+  font-size: 16px;
+  color: #1B0508;
+}
+.hero-detail_subtext p {
+  font-size: 16px;
+  font-weight: 400;
+  font-style: italic;
+  margin: 0;
+  opacity: .9;
+}
+
+.hero-detail-h2 {
+  font-size: 20px;
+  font-weight: 600;
+  margin: 5px;
+}
+.hero-detail-text {
+  font-weight: 400;
+}
+.hero-detail-text a{
+  text-underline-offset: 3px;
+}
