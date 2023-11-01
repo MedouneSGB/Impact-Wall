@@ -34,6 +34,12 @@ function searchFunction() {
 	} else {
 		noMatchMessage.style.display = "none";
 	}
+
+	// Scroll to the contact section
+	const contactSection = document.getElementById("heroes");
+	if (contactSection) {
+		contactSection.scrollIntoView({ behavior: "smooth" });
+	}
 }
 
 // Function to reset search when the input value is cleared
